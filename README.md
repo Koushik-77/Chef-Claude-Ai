@@ -31,7 +31,7 @@ Chef Claude AI is an AI-powered cooking assistant that helps users generate crea
 
     Install dependencies:
 
-npm install
+   npm install
 
 Start the development server:
 
@@ -41,14 +41,14 @@ Start the development server:
 
 📂 Folder Structure
 
-Chef-Claude-Ai/
-├── components/        # Reusable React components
-├── images/            # Image assets
-├── App.jsx            # Main application component
-├── ai.js              # AI integration logic
-├── index.css          # Global styles
-├── index.html         # HTML entry point
-├── index.jsx          # React entry point
-├── recipeCode.md      # Optional notes or markdown examples
-├── package.json       # Project metadata and scripts
-└── vite.config.js     # Vite build configuration
+Chef-Claude-Ai/<br>
+├── components/        # Reusable React components<br>
+├── images/            # Image assets<br>
+├── App.jsx            # Main application component<br>
+├── ai.js              # AI integration logic<br>
+├── index.css          # Global styles<br>
+├── index.html         # HTML entry point<br>
+├── index.jsx          # React entry point<br>
+├── recipeCode.md      # Optional notes or markdown examples<br>
+├── package.json       # Project metadata and scripts<br>
+└── vite.config.js     # Vite build configuration<br>
