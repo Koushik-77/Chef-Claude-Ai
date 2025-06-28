@@ -8,7 +8,7 @@ Chef Claude AI is an AI-powered cooking assistant that helps users generate crea
 - 🥘 Suggest meals based on available ingredients
 - 💬 Chat-style user interface for smooth interactions
 - 🌐 Fully responsive UI for both desktop and mobile
-
+- LIVE DEMO : https://koushikteja.site/chef
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js, Vite
